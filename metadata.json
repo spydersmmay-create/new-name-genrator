@@ -1,0 +1,8 @@
+
+{
+  "name": "Luminary AI Vision",
+  "description": "A high-performance AI image generation and editing suite powered by Google Gemini, featuring responsive design and style presets.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
